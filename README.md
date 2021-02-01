@@ -10,3 +10,5 @@ pip install -r requirements.txt
 python main.py
 ``` 
 
+
+![demostration](img/capture.gif)
